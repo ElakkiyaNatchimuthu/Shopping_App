@@ -1,3 +1,1 @@
-Shopping_App
-Hi welcome to Github
-This is "firstversion" changes
+This is random content using the second repository 
